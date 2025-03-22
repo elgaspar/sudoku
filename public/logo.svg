@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+    <rect width="100" height="100" fill="#f4f4f4" rx="10"/>
+    <line x1="33" y1="10" x2="33" y2="90" stroke="black" stroke-width="4"/>
+    <line x1="66" y1="10" x2="66" y2="90" stroke="black" stroke-width="4"/>
+    <line x1="10" y1="33" x2="90" y2="33" stroke="black" stroke-width="4"/>
+    <line x1="10" y1="66" x2="90" y2="66" stroke="black" stroke-width="4"/>
+    <text x="15" y="30" font-size="18" font-family="Arial" font-weight="bold">5</text>
+    <text x="40" y="30" font-size="18" font-family="Arial" font-weight="bold">3</text>
+    <text x="70" y="30" font-size="18" font-family="Arial" font-weight="bold">1</text>
+    <text x="15" y="60" font-size="18" font-family="Arial" font-weight="bold">7</text>
+    <text x="40" y="60" font-size="18" font-family="Arial" font-weight="bold">6</text>
+    <text x="70" y="60" font-size="18" font-family="Arial" font-weight="bold">9</text>
+    <text x="15" y="90" font-size="18" font-family="Arial" font-weight="bold">2</text>
+    <text x="40" y="90" font-size="18" font-family="Arial" font-weight="bold">8</text>
+    <text x="70" y="90" font-size="18" font-family="Arial" font-weight="bold">4</text>
+</svg>
