@@ -1,9 +1,11 @@
 <script setup>
-import Button from '@/components/Common/Button.vue';
+import SudokuBoard from '@/components/SudokuBoard/SudokuBoard.vue';
+import Toolbar from '@/components/Toolbar/Toolbar.vue';
 </script>
 
 <template>
-    <div>TODO</div>
-    <br />
-    <Button text="Click me" />
+    <div class="flex flex-col items-center gap-5">
+        <Toolbar />
+        <SudokuBoard />
+    </div>
 </template>
